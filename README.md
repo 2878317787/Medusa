@@ -12,7 +12,7 @@ medusa-llm"><b>Blog</b></a> | <a href="https://arxiv.org/abs/2401.10774"><b>Repo
 ---
 ## Introduction
 
-Medusa is a simple framework that democratizes the acceleration techniques for LLM generation with multiple decoding heads.
+--Medusa is a simple framework that democratizes the acceleration techniques for LLM generation with multiple decoding heads.
 
 <div align="center">
   <picture>
